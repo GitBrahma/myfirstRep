@@ -1,0 +1,3 @@
+An ideal framework should have the following characterstics
+1. Reusable
+2. Easy Maintenance
