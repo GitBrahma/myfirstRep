@@ -1,6 +1,0 @@
-An ideal framework should have the following characterstics
-1. Reusable
-2. Easy Maintenance
-3. Portable
-4. Scalable
-5. Readable
